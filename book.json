@@ -1,7 +1,6 @@
 {
     "plugins": [
         "ga",
-        "28msec",
         "ace",
         "adbutler"
     ],
