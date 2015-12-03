@@ -2,7 +2,8 @@
     "plugins": [
         "ga",
         "28msec",
-        "ace"
+        "ace",
+        "adbutler"
     ],
     "pluginsConfig": {
         "ga": {
