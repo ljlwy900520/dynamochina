@@ -1,11 +1,6 @@
 {
     "plugins": [
-        "ga",
         "adbutler"
     ],
-    "pluginsConfig": {
-        "ga": {
-            "token": "UA-52186525-3"
-        }
-    }
+    "pluginsConfig": {}
 }
